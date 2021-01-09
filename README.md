@@ -26,9 +26,8 @@ This project would use Four-square API as its prime data gathering source as it 
 # 4. Result
 
 ## Map of Toronto
+<img src = "brajeshmohapatra/coursera_capstone/Screenshot (133).png">
 
-from IPython.display import Image
-Image(filename = 'Screenshot (133).png')
 
 ## Map of Scarborough
 
