@@ -31,8 +31,7 @@ This project would use Four-square API as its prime data gathering source as it 
 
 ## Map of Scarborough
 
-from IPython.display import Image
-Image(filename = 'Screenshot (132).png')
+<img src = "Screenshot (132).png">
 
 # Discussion
 
