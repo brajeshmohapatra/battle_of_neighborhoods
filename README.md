@@ -26,7 +26,7 @@ This project would use Four-square API as its prime data gathering source as it 
 # 4. Result
 
 ## Map of Toronto
-<img src = "brajeshmohapatra/coursera_capstone/Screenshot (133).png">
+<img src = "Screenshot (133).png">
 
 
 ## Map of Scarborough
